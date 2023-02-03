@@ -1,0 +1,1 @@
+const emptyTab = open();emptyTab.otherwindow = window;emptyTab.document.write("<h1>Console'D</h1>");const injectCode = "<script src='console'><\/script>";emptyTab.document.write(injectCode);
